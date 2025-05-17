@@ -1,5 +1,6 @@
 opencv-python
 Pillow
-google-generative-ai
+google-generativeai
+google-ai-generativelanguage
 python-dotenv
 tk
